@@ -2,3 +2,7 @@ addFromGitHub
 -------------------------
 some changes from github
 -------------------------
+
+and more changes
+
+-------------------------
