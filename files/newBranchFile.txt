@@ -1,1 +1,3 @@
 newBranchFile
+
+===some changes on newBranch===
